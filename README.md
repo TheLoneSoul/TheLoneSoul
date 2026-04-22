@@ -14,7 +14,7 @@
     </tr>
   </table>
 
-  <p><strong>F r o n t e n d  •  D e v e l o p e r</strong></p>
+  <p><strong>D e v e l o p e r</strong></p>
   
   <p>
     <a href="https://www.linkedin.com/in/aabhas-bhandari-828b12230/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white" /></a>
