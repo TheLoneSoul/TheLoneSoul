@@ -22,7 +22,7 @@
 <br/>
 
 ### ⚡ Beyond the Code
-Backend-focused developer passionate about building scalable APIs and server-side systems. Currently building with the MERN stack and diving deep into authentication, authorization, and clean architecture.
+Passionate about building robust backend systems, clean APIs, and solving real-world problems through code.
 
 <table border="0">
   <tr>
