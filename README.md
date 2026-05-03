@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Header banner">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
   <br/>
   <table border="0" align="center">
     <tr style="border: none;">
       <td style="border: none;">
         <h1><code>AABHAS BHANDARI</code></h1>
-      </td>
-      <td style="border: none;">
-        <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="80">
       </td>
     </tr>
   </table>
@@ -57,5 +55,5 @@ Passionate about building robust backend systems, clean APIs, and solving real-w
 
 ---
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Header banner">
 </div>
