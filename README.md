@@ -9,7 +9,7 @@
       </td>
     </tr>
   </table>
-<p><strong>F u l l&nbsp; S t a c k&nbsp; D e v e l o p e r</strong></p>
+<p><strong>AI&nbsp; Researcher &nbsp;|&nbsp; Computer&nbsp; Vision &nbsp;|&nbsp; Backend&nbsp; Systems&nbsp; Engineer</strong></p>
   
   <p>
     <a href="https://www.linkedin.com/in/aabhas-bhandari-828b12230/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -19,18 +19,18 @@
 </div>
 <br/>
 
-### ⚡ Beyond the Code
-Passionate about building robust backend systems, clean APIs, and solving real-world problems through code.
+### ⚡ About Me
+Computer Science graduate specializing in Artificial Intelligence, Computer Vision, and scalable backend system architectures. Experienced in building real-time deep learning pipelines and high-throughput production backends.
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
       <br/>
-      <p>🔭 <b>Focus:</b> Building RESTful APIs and backend systems.</p>
-      <p>🌱 <b>Evolution:</b> Deep diving into JWT Auth, Role-based Access & MongoDB.</p>
-      <p>👯 <b>Synergy:</b> Open to collaborative backend or full-stack projects.</p>
-      <p>💬 <b>Expertise:</b> Node.js, Express.js, MongoDB, MVC Architecture.</p>
-      <p>🚀 <b>Mission:</b> Writing clean, scalable server-side code that actually works.</p>
+      <p>🔭 <b>Research Focus:</b> Spatial-Temporal Deep Learning, Computer Vision, & Assistive AI.</p>
+      <p>💻 <b>Engineering Focus:</b> Type-safe backends, geospatial indexing, and real-time event-driven data flow.</p>
+      <p>🌱 <b>Currently Building:</b> <b>Fleetzod</b> — A production-grade ride-sharing backend engine with 2dsphere geospatial matching.</p>
+      <p>💬 <b>Core Stack:</b> Python, TypeScript, Node.js, Express, MongoDB, OpenCV, MediaPipe, Docker, Zod.</p>
+      <p>🎯 <b>Objective:</b> Pursuing Higher Degree by Research (MPhil) opportunities in Australia alongside high-impact AI/Software roles.</p>
     </td>
     <td width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
@@ -39,18 +39,17 @@ Passionate about building robust backend systems, clean APIs, and solving real-w
 </table>
 <br/>
 
-### 🛠️ Core Stack
+### 🛠️ Technical Arsenal
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
