@@ -27,10 +27,7 @@ Computer Science graduate specializing in Artificial Intelligence, Computer Visi
     <td width="60%" valign="top">
       <br/>
       <p>🔭 <b>Research Focus:</b> Spatial-Temporal Deep Learning, Computer Vision, & Assistive AI.</p>
-      <p>💻 <b>Engineering Focus:</b> Type-safe backends, geospatial indexing, and real-time event-driven data flow.</p>
-      <p>🌱 <b>Currently Building:</b> <b>Fleetzod</b> — A production-grade ride-sharing backend engine with 2dsphere geospatial matching.</p>
-      <p>💬 <b>Core Stack:</b> Python, TypeScript, Node.js, Express, MongoDB, OpenCV, MediaPipe, Docker, Zod.</p>
-      <p>🎯 <b>Objective:</b> Pursuing Higher Degree by Research (MPhil) opportunities in Australia alongside high-impact AI/Software roles.</p>
+      <p>💻 <b>Engineering Focus:</b> Type-safe backends, geospatial indexing, and real-time event-driven data flow.
     </td>
     <td width="40%" align="center">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
@@ -39,7 +36,7 @@ Computer Science graduate specializing in Artificial Intelligence, Computer Visi
 </table>
 <br/>
 
-### 🛠️ Technical Arsenal
+### 🛠️ Core Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
